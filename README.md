@@ -85,3 +85,7 @@ Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of 
 
 - Thanks to all contributors who have helped improve this project
 - Inspired by the need for simple financial calculations in micro-finance applications
+
+---
+
+© 2022 XYZ, Inc.
